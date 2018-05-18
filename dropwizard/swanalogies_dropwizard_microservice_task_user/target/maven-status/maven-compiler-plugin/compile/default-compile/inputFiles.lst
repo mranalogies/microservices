@@ -1,0 +1,8 @@
+/Users/rj/Documents/GitHub/microservices/dropwizard/swanalogies_dropwizard_microservice_task_user/src/main/java/swanalogies/playground/microservices/dropwizard/task/user/dao/UserDAO.java
+/Users/rj/Documents/GitHub/microservices/dropwizard/swanalogies_dropwizard_microservice_task_user/src/main/java/swanalogies/playground/microservices/dropwizard/task/user/configuration/TaskUserMicroserviceConfiguration.java
+/Users/rj/Documents/GitHub/microservices/dropwizard/swanalogies_dropwizard_microservice_task_user/src/main/java/swanalogies/playground/microservices/dropwizard/task/user/configuration/CouchbaseFactory.java
+/Users/rj/Documents/GitHub/microservices/dropwizard/swanalogies_dropwizard_microservice_task_user/src/main/java/swanalogies/playground/microservices/dropwizard/task/user/api/User.java
+/Users/rj/Documents/GitHub/microservices/dropwizard/swanalogies_dropwizard_microservice_task_user/src/main/java/swanalogies/playground/microservices/dropwizard/task/user/TaskUserApplication.java
+/Users/rj/Documents/GitHub/microservices/dropwizard/swanalogies_dropwizard_microservice_task_user/src/main/java/swanalogies/playground/microservices/dropwizard/task/user/dao/UserDAOImpl.java
+/Users/rj/Documents/GitHub/microservices/dropwizard/swanalogies_dropwizard_microservice_task_user/src/main/java/swanalogies/playground/microservices/dropwizard/task/user/healthcheck/TaskUserMicroserviceHealthCheck.java
+/Users/rj/Documents/GitHub/microservices/dropwizard/swanalogies_dropwizard_microservice_task_user/src/main/java/swanalogies/playground/microservices/dropwizard/task/user/resources/UserResource.java

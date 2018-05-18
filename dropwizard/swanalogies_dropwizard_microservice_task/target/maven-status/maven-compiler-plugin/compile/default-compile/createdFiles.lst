@@ -1,0 +1,9 @@
+swanalogies/playground/microservices/dropwizard/task/api/Task.class
+swanalogies/playground/microservices/dropwizard/task/healthcheck/TaskHealthCheck.class
+swanalogies/playground/microservices/dropwizard/task/configuration/TaskMicroserviceConfiguration.class
+swanalogies/playground/microservices/dropwizard/task/resources/TaskResource.class
+swanalogies/playground/microservices/dropwizard/task/configuration/CouchbaseFactory$1.class
+swanalogies/playground/microservices/dropwizard/task/configuration/CouchbaseFactory.class
+swanalogies/playground/microservices/dropwizard/task/dao/TaskDAO.class
+swanalogies/playground/microservices/dropwizard/task/TaskApplication.class
+swanalogies/playground/microservices/dropwizard/task/dao/TaskDAOImpl.class
