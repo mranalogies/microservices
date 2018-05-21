@@ -1,0 +1,17 @@
+server:
+  type: simple
+  applicationContextPath: /swanalogies/microservice/
+  adminContextPath: /swanalogies/microservice/admin
+  connector:
+    type: http
+    port: 8080
+
+logging:
+  level: INFO
+
+couchbaseFactory:
+  bucketName: task
+  password: test
+  primaryCouchbaseCluster:
+    - 192.168.99.100
+  connectTimeout: 20000
